@@ -1,2 +1,2 @@
-# -MyFirstRepo
-MyFirstRepo_ALX_Pathways
+# -MyFirstRepo 
+This is my first repository created as part of a GitHub learning task
